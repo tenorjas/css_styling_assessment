@@ -18,6 +18,12 @@ colors:
   padding-bottom: 40px;
 }
 
+section {
+  border-bottom-color: #dddddd;
+  border-bottom-width: medium;
+  border-bottom-style: solid;
+}
+
 .main_navigation {
   margin-left: 20px;
 }
@@ -48,5 +54,10 @@ p a {
 
 h3 {
   color: #1fabe5;
-  font-family: Helvetica, Arial, sans-serif;  
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+ul {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
 }
