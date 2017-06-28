@@ -1,0 +1,31 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+
+#site_header {
+  background-color: #ff8523;
+  padding-bottom: 40px;
+}
+
+.main_navigation a {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-color: white;
+  text-decoration: none;
+  border-width: thin;
+  border-style: solid;
+  padding: 10px 20px 10px 20px;
+
+}
