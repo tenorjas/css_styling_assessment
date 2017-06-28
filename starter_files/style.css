@@ -72,10 +72,16 @@ thead > tr > td {
   border-width: thin;
   border-style: solid;
   color: white;
+  padding-left: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 10px;
 }
 
 tbody > tr > td {
   border-color: #1fabe5;
   border-width: thin;
   border-style: solid;
+  padding-left: 10px;
+  padding-right: 10px;
 }
