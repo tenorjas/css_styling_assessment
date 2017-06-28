@@ -61,3 +61,21 @@ ul {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
+
+table {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+thead > tr > td {
+  background-color: #1fabe5;
+  border-color: #046c97;
+  border-width: thin;
+  border-style: solid;
+  color: white;
+}
+
+tbody > tr > td {
+  border-color: #1fabe5;
+  border-width: thin;
+  border-style: solid;
+}
